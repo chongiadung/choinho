@@ -54,7 +54,7 @@ pytz==2016.7
 queuelib==1.4.2
 redis==2.10.5
 regex==2016.11.21
-requests==2.11.1
+requests==2.20.0
 ruamel.ordereddict==0.4.9
 ruamel.yaml==0.13.1
 scandir==1.5
