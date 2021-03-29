@@ -45,7 +45,7 @@ pyasn1==0.1.9
 pyasn1-modules==0.0.8
 pycparser==2.17
 pyes==0.99.6
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.2
 pyOpenSSL==16.2.0
 python-amazon-simple-product-api==2.2.11
