@@ -58,7 +58,7 @@ requests==2.11.1
 ruamel.ordereddict==0.4.9
 ruamel.yaml==0.13.1
 scandir==1.5
-Scrapy==1.0.5
+Scrapy==1.8.2
 service-identity==16.0.0
 simplegeneric==0.8.1
 simplejson==3.8.1
