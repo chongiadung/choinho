@@ -67,7 +67,7 @@ slowaes==0.1a1
 speedtest-cli==0.3.4
 tornado==4.2
 traitlets==4.3.2
-Twisted==19.7.0
+Twisted==22.10.0
 typing==3.5.2.2
 tzlocal==1.3
 umalqurra==0.2
